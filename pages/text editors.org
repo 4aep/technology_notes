@@ -1,5 +1,8 @@
 #+TITLE: text editors
 
 ** navigating code
+*** line numbers
+*** go to definitions
 ** editing code
 *** multiple cursors
+*** re-factoring
