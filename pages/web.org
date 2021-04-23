@@ -1,0 +1,3 @@
+#+TITLE: web
+
+** [[good web design]]
