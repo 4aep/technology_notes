@@ -1,7 +1,7 @@
 #+TITLE: text editors
 
 ** navigating code
-*** line numbers
+*** line numbers (and relative line numbering)
 *** go to definitions
 *** a way to seach a file
 *** a way to manage projects (outline view, search multiple files)
@@ -11,6 +11,7 @@
 *** git and version control
 *** integrated terminal
 *** text suggestion / intellisense
+*** snippets
 ** reading code
 *** syntax highlighting
 *** static analysis
