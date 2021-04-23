@@ -2,3 +2,4 @@
 
 ** started a log-seq wiki
 ** [[logseq recommendations]]
+** [[good program features]]
