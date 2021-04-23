@@ -9,6 +9,7 @@
 *** multiple cursors
 *** re-factoring
 *** git and version control features
+*** integrated terminal
 ** reading code
 *** syntax highlighting
 *** rainbow delimiters for lisp-family languages
