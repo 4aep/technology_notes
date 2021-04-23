@@ -13,7 +13,9 @@
 *** text suggesition / intellisense
 ** reading code
 *** syntax highlighting
+*** static analysis
 *** rainbow delimiters for lisp-family languages
 *** easy access to documentation
 ** software itself
 *** fast, not sluggish
+*** easy to learn
