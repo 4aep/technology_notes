@@ -9,4 +9,4 @@
 ** reading code
 *** syntax highlighting
 *** rainbow delimiters for lisp family languages
-*** code folding
+*** code
