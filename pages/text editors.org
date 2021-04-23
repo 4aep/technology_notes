@@ -16,4 +16,4 @@
 *** rainbow delimiters for lisp-family languages
 *** easy access to documentation
 ** software itself
-*** fast enough
+*** fast, not sluggish
