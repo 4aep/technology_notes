@@ -10,6 +10,7 @@
 *** re-factoring
 *** git and version control
 *** integrated terminal
+*** text suggestion / intellisense
 ** reading code
 *** syntax highlighting
 *** rainbow delimiters for lisp-family languages
