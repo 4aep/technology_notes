@@ -11,6 +11,9 @@
 *** git and version control
 *** integrated terminal
 *** text suggestion / intellisense
+:PROPERTIES:
+:background_color: #533e7d
+:END:
 ** reading code
 *** syntax highlighting
 *** rainbow delimiters for lisp-family languages
