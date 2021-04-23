@@ -18,4 +18,4 @@
 *** easy access to documentation
 ** software itself
 *** fast, not sluggish
-*** easy to learn
+*** ( ) easy to learn
