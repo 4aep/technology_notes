@@ -2,3 +2,4 @@
 
 ** navigating code
 ** editing code
+*** multiple cursors
