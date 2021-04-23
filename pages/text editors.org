@@ -3,8 +3,9 @@
 ** navigating code
 *** line numbers
 *** go to definitions
-*** syntax highlighting
-*** rainbow delimiters
 ** editing code
 *** multiple cursors
 *** re-factoring
+** reading code
+*** syntax highlighting
+*** rainbow delimiters for lisp family languages
