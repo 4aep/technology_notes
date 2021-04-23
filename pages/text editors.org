@@ -10,7 +10,7 @@
 *** re-factoring
 *** git and version control
 *** integrated terminal
-*** text suggesition / intellisense
+*** text suggestion / intellisense
 ** reading code
 *** syntax highlighting
 *** static analysis
