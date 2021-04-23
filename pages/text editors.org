@@ -3,7 +3,7 @@
 ** navigating code
 *** line numbers
 *** go to definitions
-*** a way to each a file
+*** a way to seach a file
 *** a way to manage projects (outline view, search multiple files)
 ** editing code
 *** multiple cursors
