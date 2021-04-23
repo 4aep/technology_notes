@@ -3,6 +3,8 @@
 ** navigating code
 *** line numbers
 *** go to definitions
+*** syntax highlighting
+*** rainbow delimiters
 ** editing code
 *** multiple cursors
 *** re-factoring
