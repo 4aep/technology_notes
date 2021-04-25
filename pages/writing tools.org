@@ -16,7 +16,7 @@
 14. able to insert a table of contents and add section numbering to them.
 15. able to display outline on the side (binder).
 16. A way to insert a template or create a file based on a template.
-17. able to change the font, background color (maybe even make it an image!)
+17. able to change the font, background color (maybe even make it an image!), WYSIWYM
 18. supports variable pitch for prose and monospace for code.
 19. some way to get statistics on your writing.
 20. word-wrap long lines in a smart way.
