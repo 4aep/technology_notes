@@ -13,11 +13,11 @@
 11. able to easily add diagrams/images.
 12. images are displayed or can be displayed
 13. some way to manage footnotes/footnote support.
-14. able to insert table of contents and add section numbering to them.
+14. able to insert a table of contents and add section numbering to them.
 15. able to display outline on the side (binder).
-16. A way to insert a template or create a file based on template.
-17. able to change font, background color (maybe even make it a image!)
+16. A way to insert a template or create a file based on a template.
+17. able to change the font, background color (maybe even make it an image!)
 18. supports variable pitch for prose and monospace for code.
 19. some way to get statistics on your writing.
-20. word wrap long lines in a smart way.
+20. word-wrap long lines in a smart way.
 21. literary spell check (e.g proselint).
