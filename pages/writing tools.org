@@ -1,20 +1,18 @@
 #+TITLE: writing tools
 
-** writing prose
-** navigating prose
-** 1. some sort of note taking capacity.
-2. some way to manage list.
+** 1. some sort of note-taking capacity.
+2. some way to manage the list.
 3. some way to manage tables.
 4. search word through dictionary feature.
-5. find synonyms of word.
-6. spellcheck and / or autocorrect.
-7. auto-suggestion / completion, this makes spellchecking less needed and speeds up writing (you don't have to type as much).
-8. reference / citation management.
+5. find synonyms of words.
+6. spellcheck and/or autocorrect.
+7. auto-suggestion/completion, this makes spellchecking less needed and speeds up writing (you don't have to type as much).
+8. reference/citation management.
 9. text to speech for proofreading.
 10. voice to text to make it easier to write if your hands are sore or you want a more conversational tone.
-11. able to easily add diagrams / images.
+11. able to easily add diagrams/images.
 12. images are displayed or can be displayed
-13. some way to manage footnotes / footnote support.
+13. some way to manage footnotes/footnote support.
 14. able to insert table of contents and add section numbering to them.
 15. able to display outline on the side (binder).
 16. A way to insert a template or create a file based on template.
